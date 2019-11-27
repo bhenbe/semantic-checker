@@ -1,0 +1,1 @@
+<iframe src="<?php echo $baseUrl; ?>show_result.php?url=<?php echo $checkUrl; ?>&wrapper=<?php echo $checkWrapper; ?>"></iframe>
